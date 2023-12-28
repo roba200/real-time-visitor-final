@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637851660637",
+    "project_id": "real-time-visitor-c35a9",
+    "storage_bucket": "real-time-visitor-c35a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637851660637:android:e7734fa456311684e578b4",
+        "android_client_info": {
+          "package_name": "com.example.visitor_counting_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUnIzMWgVJBbN9I7g5CNMYosUs9Eru7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
